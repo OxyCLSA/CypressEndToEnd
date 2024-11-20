@@ -1,0 +1,154 @@
+{
+    "usuarios": [
+      {
+        "name": "Drax the Destroyer",
+        "email": "drax@alura.com.br",
+        "password": "Senha123456789"
+      },
+      {
+        "name": "Mantis",
+        "email": "mantis@alura.com",
+        "password": "Senha1234567890"
+      },
+      {
+        "name": "Nebula",
+        "email": "nebula@alura.com.br",
+        "password": "Senha12345678901"
+      },
+      {
+        "name": "Yondu Udonta",
+        "email": "yondu@alura.com",
+        "password": "Senha12345678902"
+      },
+      {
+        "name": "Kraglin Obfonteri",
+        "email": "kraglin@alura.com.br",
+        "password": "Senha12345678903"
+      },
+      {
+        "name": "Cosmo the Spacedog",
+        "email": "cosmo@alura.com",
+        "password": "Senha12345678904"
+      },
+      {
+        "name": "Adam Warlock",
+        "email": "adam.warlock@alura.com.br",
+        "password": "Senha12345678905"
+      },
+      {
+        "name": "Ayesha",
+        "email": "ayesha@alura.com",
+        "password": "Senha12345678906"
+      },
+      {
+        "name": "Ego the Living Planet",
+        "email": "ego@alura.com.br",
+        "password": "Senha12345678907"
+      },
+      {
+        "name": "Howard the Duck",
+        "email": "howard@alura.com",
+        "password": "Senha12345678908"
+      },
+      {
+        "name": "Taneleer Tivan",
+        "email": "taneleer@alura.com.br",
+        "password": "Senha12345678909"
+      },
+      {
+        "name": "Korath the Pursuer",
+        "email": "korath@alura.com",
+        "password": "Senha12345678910"
+      },
+      {
+        "name": "Ronan the Accuser",
+        "email": "ronan@alura.com.br",
+        "password": "Senha12345678911"
+      },
+      {
+        "name": "Thanos",
+        "email": "thanos@alura.com",
+        "password": "Senha12345678912"
+      },
+      {
+        "name": "Starhawk",
+        "email": "starhawk@alura.com.br",
+        "password": "Senha12345678913"
+      },
+      {
+        "name": "Martinex T'Naga",
+        "email": "martinex@alura.com",
+        "password": "Senha12345678914"
+      },
+      {
+        "name": "Charlie-27",
+        "email": "charlie27@alura.com.br",
+        "password": "Senha12345678915"
+      },
+      {
+        "name": "Aleta Ogord",
+        "email": "aleta@alura.com",
+        "password": "Senha12345678916"
+      },
+      {
+        "name": "Nikki Gold",
+        "email": "nikki@alura.com.br",
+        "password": "Senha12345678917"
+      },
+      {
+        "name": "Vance Astro",
+        "email": "vance@alura.com",
+        "password": "Senha12345678918"
+      },
+      {
+        "name": "Moondragon",
+        "email": "moondragon@alura.com.br",
+        "password": "Senha12345678919"
+      },
+      {
+        "name": "Phyla-Vell",
+        "email": "phyla@alura.com",
+        "password": "Senha12345678920"
+      },
+      {
+        "name": "Bug",
+        "email": "bug@alura.com.br",
+        "password": "Senha12345678921"
+      },
+      {
+        "name": "Jack Flag",
+        "email": "jack@alura.com",
+        "password": "Senha12345678922"
+      },
+      {
+        "name": "Major Victory",
+        "email": "victory@alura.com.br",
+        "password": "Senha12345678923"
+      },
+      {
+        "name": "Star-Lord",
+        "email": "star-lord@alura.com",
+        "password": "Senha12345678924"
+      },
+      {
+        "name": "Gamora",
+        "email": "gamora@alura.com.br",
+        "password": "Senha12345678925"
+      },
+      {
+        "name": "Rocket",
+        "email": "rocket@alura.com",
+        "password": "Senha12345678926"
+      },
+      {
+        "name": "Groot",
+        "email": "groot@alura.com.br",
+        "password": "Senha12345678927"
+      },
+      {
+        "name": "Mantis",
+        "email": "mantis@alura.com",
+        "password": "Senha12345678928"
+      }
+    ]
+}
